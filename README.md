@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Richie Yaragandla 👋</h1>
+<h3 align="center">Computer Science Student @ Lancaster University | Aspiring AI Engineer & Researcher. </h3>
 
-<!--
-**Rax4DStar/Rax4DStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:yaragandla0904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me.
+CS Student@ Lancaster University, UK. Specialising in theoretical Artificial Intelligence, Low-Level Systems & Architecture. I aim to converge low level concepts to theoretical models and leverage systems architecture & engineering to optimise for performance, efficiency and abstraction in LLMs and other niche architectures.
+<br>
+
+### Languages
+<p>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
+
+### Tools
+<p>
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+</p>
+
+---
+### 📫 Contact
+
+- Email: yaragandla0904@gmail.com
+
+Thanks for visiting my profile
