@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Richie Yaragandla 👋</h1>
+<h1 align="center">Hi, I'm Richie Yaragandla </h1>
 <h3 align="center">Computer Science Student @ Lancaster University | Aspiring AI Engineer & Researcher. </h3>
 
 <p align="center">
