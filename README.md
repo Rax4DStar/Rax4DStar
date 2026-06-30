@@ -9,7 +9,7 @@
 
 
 ## About Me.
-CS Student@ Lancaster University, UK. Specialising in theoretical Artificial Intelligence, Low-Level Systems & Architecture. I aim to converge low level concepts to theoretical models and leverage systems architecture & engineering to optimise for performance, efficiency and abstraction in LLMs and other niche architectures.
+CS Student@ Lancaster University, UK. Progressing towards specialisations in Low Level Microarchitecture and inference optimisation to accelerate modern hardware components & infrastructure as well as model-level quantization & computational requirements.   
 <br>
 
 ### Languages
