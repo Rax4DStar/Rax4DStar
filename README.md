@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Richie Yaragandla </h1>
-<h3 align="center">Computer Science Student @ Lancaster University | Aspiring AI Engineer & Researcher. </h3>
+<h3 align="center">Computer Science Student @ Lancaster University | Aspiring Inference Optimisation Researcher & Infrastructure Engineer. </h3>
 
 <p align="center">
   <a href="mailto:yaragandla0904@gmail.com">
@@ -9,7 +9,7 @@
 
 
 ## About Me.
-CS Student@ Lancaster University, UK. Progressing towards specialisations in Low Level Microarchitecture and inference optimisation to accelerate modern hardware components & infrastructure as well as model-level quantization & computational requirements.   
+CS Student@ Lancaster University, UK. Progressing towards specialisations in Low Level Microarchitecture and inference optimisation to accelerate modern hardware components & infrastructure as well as model-level quantization & computational requirements.    
 <br>
 
 ### Languages
