@@ -24,7 +24,7 @@ CS Student@ Lancaster University, UK. Progressing towards specialisations in Low
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CMake/CMake-original-wordmark.svg"/>
+   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original-wordmark.svg" />
 </p>
 
 ---
