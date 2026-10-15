@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Richie Yaragandla </h1>
-<h3 align="center">Computer Science Student @ Lancaster University | Aspiring Compiler Researcher & Systems engineer. </h3>
+<h3 align="center">Computer Science Student @ Lancaster University | Aspiring ML Compiler Researcher & Systems engineer. </h3>
 
 <p align="center">
   <a href="mailto:yaragandla0904@gmail.com">
@@ -9,7 +9,7 @@
 
 
 ## About Me.
-CS Student@ Lancaster University, UK. Progressing towards specialisations in Low Level Systems and optimising hardware infrastructure. Particular niche in Programming Languages & Architecture with Compiler Customisation & Optimisation. 
+CS Student@ Lancaster University, UK. Progressing towards specialisations in Low Level Systems and optimising infrastructure. Particular niche in Systems for Machine Learning with Compiler Customisation & Optimisation. 
 <br>
 
 ### Languages
@@ -24,6 +24,7 @@ CS Student@ Lancaster University, UK. Progressing towards specialisations in Low
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CMakeFile/CMakeFile-original-wordmark.svg"/>
 </p>
 
 ---
