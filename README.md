@@ -17,6 +17,7 @@ CS Student@ Lancaster University, UK currently within my 2nd Year. Progressing t
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg"/>
 </p>
 
 ### Tools
