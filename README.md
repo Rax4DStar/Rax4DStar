@@ -9,7 +9,7 @@
 
 
 ## About Me.
-CS Student@ Lancaster University, UK currently within my 2nd Year. Progressing towards Machine Learning/Deep Learning Compilers & Kernels as well as Low Level Systems Engineering. Working on Compilers, kernels, memory & unique AI model Architecture.
+CS Student@ Lancaster University, UK currently within my 2nd Year. Progressing towards Machine Learning/Deep Learning Compilers & Kernels as well as Low Level Systems Engineering. Working on Compilers, kernels, memory & unique AI model Architecture. 
 <br>
 
 ### Languages
@@ -17,7 +17,6 @@ CS Student@ Lancaster University, UK currently within my 2nd Year. Progressing t
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/CUDA/CUDA-original.svg"/>
 </p>
 
 ### Tools
